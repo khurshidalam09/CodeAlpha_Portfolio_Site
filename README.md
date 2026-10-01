@@ -9,9 +9,7 @@ The portfolio showcases skills, projects, internship experience, education, and 
 ## 🚀 Live Website
 
 **GitHub Pages:**
-`https://khurshidalam09.github.io/`
-
-> Update the URL above if the repository name is different.
+https://khurshidalam09.github.io/CodeAlpha_Portfolio_Site/
 
 ---
 
@@ -181,95 +179,6 @@ Currently pursuing a degree in Computer Science & Engineering.
 ### Email
 
 `khurshidcodez@gmail.com`
-
----
-
-## 🖥️ Run Locally
-
-Clone the repository:
-
-```bash
-git clone https://github.com/khurshidalam09/your-portfolio-repository.git
-```
-
-Navigate into the project:
-
-```bash
-cd your-portfolio-repository
-```
-
-Then open:
-
-```text
-index.html
-```
-
-in your browser.
-
-For development, you can also use **VS Code Live Server**.
-
----
-
-## 🌐 Deploy on GitHub Pages
-
-1. Push the project to a GitHub repository.
-2. Open the repository on GitHub.
-3. Go to:
-
-```text
-Settings
-   ↓
-Pages
-```
-
-4. Under **Build and deployment**, select:
-
-```text
-Source: Deploy from a branch
-Branch: main
-Folder: / (root)
-```
-
-5. Click **Save**.
-
-GitHub will generate your portfolio website URL.
-
----
-
-## 📱 Responsive Design
-
-The portfolio is designed to work across:
-
-* 💻 Desktop
-* 💻 Laptop
-* 📱 Mobile
-* 📟 Tablet
-
-The navigation, project cards, skills, contact section and hero area automatically adapt to smaller screens.
-
----
-
-## 🔮 Future Improvements
-
-Possible future additions:
-
-* [ ] Project filtering
-* [ ] Dark/Light theme
-* [ ] More project showcases
-* [ ] GitHub API integration
-* [ ] GitHub contribution visualization
-* [ ] Contact form
-* [ ] Resume download
-* [ ] More advanced animations
-* [ ] Project screenshots
-* [ ] Custom domain
-* [ ] SEO improvements
-
----
-
-## 📄 License
-
-This project is open source and available for personal and educational use.
 
 ---
 
